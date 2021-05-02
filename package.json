@@ -1,14 +1,14 @@
 {
-  "name": "@hyas/doks",
-  "description": "Doks theme",
-  "version": "0.2.3",
+  "name": "model-quest",
+  "description": "Documentation site for question generation models",
+  "version": "0.0.1",
   "hugo-bin": {
     "buildTags": "extended"
   },
   "browserslist": [
     "defaults"
   ],
-  "repository": "https://github.com/h-enk/doks",
+  "repository": "https://github.com/model-quest/model-quest.github.io",
   "license": "MIT",
   "publishConfig": {
     "access": "public"

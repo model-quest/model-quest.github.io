@@ -2,5 +2,6 @@ functions
 node_modules
 public
 resources
+docs
 # Local Netlify folder
 .netlify
